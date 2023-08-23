@@ -23,4 +23,8 @@ cd TODO_LIST-CLIBased\TODO_LIST-CLI
 ```
 ./run
 ```
+or
+```
+run
+```
  __________________________________
