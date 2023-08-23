@@ -13,14 +13,14 @@ To install the `GradeMaster` program, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/ShadowR3aper/GradeMaster.git
+git clone https://github.com/JohnCipher777/TODO_LIST-CLIBased.git
 ```
 2. Navigate to the project directory:
 ```
-cd GradeMaster
+cd TODO_LIST-CLI
 ```
-3. Run the program by running the following command:
+3. To start the application run the following command:
 ```
-GradeMaster
+./run
 ```
  __________________________________
