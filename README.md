@@ -17,7 +17,7 @@ git clone https://github.com/JohnCipher777/TODO_LIST-CLIBased.git
 ```
 2. Navigate to the project directory:
 ```
-cd TODO_LIST-CLI
+cd TODO_LIST-CLIBased\TODO_LIST-CLI
 ```
 3. To start the application run the following command:
 ```
