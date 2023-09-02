@@ -1,4 +1,4 @@
-Author: John D' Cipher
+Coded By: John D' Cipher
 ----
 Guide
   > Just open the TODO-LIST_CLI.exe file to use the application
