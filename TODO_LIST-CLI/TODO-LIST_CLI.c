@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
-	char filenames[][50] = {
+    static char filenames[][50] = {
         "TODO-LIST_CLI.c",
         "MainClass.class",
         "DataList.class",
