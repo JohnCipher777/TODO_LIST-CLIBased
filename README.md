@@ -19,5 +19,6 @@ git clone https://github.com/JohnCipher777/TODO_LIST-CLIBased.git
 ```
 cd TODO_LIST-CLIBased\TODO_LIST-CLI
 ```
-3. To start the application just open the `TODO-LIST_CLI.exe` file:
+3. To start the application just open the `TODO-LIST_CLI.exe` file
+4. Type yes if you agree to my terms & conditons, else you cant use it.
  __________________________________
