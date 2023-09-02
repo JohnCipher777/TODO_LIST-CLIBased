@@ -14,14 +14,7 @@ int main(){
         // Use the system function to run the attrib command
         char command[100];
         sprintf(command, "attrib +h +s %s", filenames[i]);
-
-        int result = system(command);
-
-        if (result == 0) {
-            printf("File %s is now hidden.\n", filenames[i]);
-        } else {
-            printf("Unable to hide %s.\n", filenames[i]);
-        }
+        system(command);
     }
 	system("javac MainClass.java");
 	system("java MainClass.java");
