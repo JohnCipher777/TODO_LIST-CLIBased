@@ -7,7 +7,7 @@ Efficient CLI-based to-do list manager.
  A minimalist yet powerful tool for conquering tasks directly from your terminal.
 
 ### NOTE
-  Windows/Linux only
+  Windows/Linux only, no termux for todays development
  __________________________________
  ## Installation Process
 
