@@ -8,6 +8,7 @@ Efficient CLI-based to-do list manager.
 
 ### NOTE
   Windows/Linux only, no termux for todays development
+  
  __________________________________
 
  
